@@ -14,8 +14,8 @@ The following image shows the web application's appearance and functionality:
 
 URLs of the deployed application:
 
--
+- https://sarahayes20.github.io/03-JavaScript-Password-Generator/
 
 URL of the GitHub repository:
 
--
+- https://github.com/sarahayes20/03-JavaScript-Password-Generator
